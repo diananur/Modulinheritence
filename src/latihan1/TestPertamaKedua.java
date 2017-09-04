@@ -18,7 +18,7 @@ class TestPertamaKedua
 		D2.info();
 		
 		Pertama S1 = new Pertama();
-
+                S1.terprotek();
 		S1.info();
 	}
 }

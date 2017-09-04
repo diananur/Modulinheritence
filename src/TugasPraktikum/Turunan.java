@@ -15,4 +15,8 @@ public class Turunan extends Induk{
     System.out.println("Method di dalam kelas Turunan");
     System.out.println("s : \""+s+"\"");
     }
+    public void test(){
+        System.out.println("Method di dalam kelas induk");
+}
+    
 }

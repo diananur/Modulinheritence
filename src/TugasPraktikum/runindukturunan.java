@@ -9,10 +9,11 @@ package TugasPraktikum;
  *
  * @author Lenovo
  */
-public class Induk {
-    
-    public void test()
-    {
-        System.out.println("Method di dalam kelas induk");
-}
+public class runindukturunan {
+    public static void main(String[] args){
+        Turunan obj = new Turunan();
+        obj.test("method overload");
+        obj.test();
+        
+    }
 }
